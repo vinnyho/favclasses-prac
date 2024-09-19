@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/favclasses-prac/static/css/main.964fdded.css",
+    "main.js": "/favclasses-prac/static/js/main.1460e6a8.js",
+    "index.html": "/favclasses-prac/index.html",
+    "main.964fdded.css.map": "/favclasses-prac/static/css/main.964fdded.css.map",
+    "main.1460e6a8.js.map": "/favclasses-prac/static/js/main.1460e6a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.1460e6a8.js"
+  ]
+}
